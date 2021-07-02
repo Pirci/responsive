@@ -1,6 +1,6 @@
 ### Seytech Fullstack Software Developer Bootcamp
 
-> HTML & CSS #7th Homework Project (Form).
+> HTML & CSS #8th Homework Project (Responsive).
 
 From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
