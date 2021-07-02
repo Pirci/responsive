@@ -94,6 +94,26 @@ li {
 .side-bar {
   flex-basis: 20%;
   background-color: rgb(247, 223, 220);
+  margin: 10px 20px 70px 10px;
+}
+
+.side-bar h3 {
+  padding-left: 10px;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.side-bar p {
+  font-size: 1.1rem;
+  padding-left: 10px;
+}
+
+.info h3 {
+  padding-left: 10px;
+}
+
+.info p {
+  padding-left: 10px;
 }
 
 .ftext {
@@ -103,8 +123,14 @@ li {
   border: solid 2px darkgray;
   border-radius: 10px;
   padding: 5px;
+
   color: rgb(215, 82, 62);
   text-align: center;
   font-weight: 500;
   margin-top: 0;
+}
+
+.ftext p {
+  font-size: 1.2rem;
+  font-weight: bold;
 }
