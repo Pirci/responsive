@@ -87,11 +87,32 @@ li {
 }
 
 /*
-********** Main Content Styles **********
+********** Info Content Styles **********
 */
 
 .info {
   flex-basis: 65%;
+}
+
+.info p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 0px 10px;
+}
+
+.info h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding: 0px 10px;
+}
+
+#color-text {
+  color: rgb(215, 82, 62);
+}
+
+#large {
+  color: rgb(215, 82, 62);
+  font-size: 2.4rem;
 }
 
 /*
@@ -105,12 +126,15 @@ li {
 }
 
 .side-bar h3 {
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   font-weight: bold;
+  padding: 0px 10px;
 }
 
 .side-bar p {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+  padding: 0px 10px;
+  font-weight: bold;
 }
 
 /*
@@ -122,16 +146,14 @@ li {
   max-width: 95%;
   margin: 20px auto;
   border: solid 2px darkgray;
-  border-radius: 10px;
-  padding: 5px;
-
+  border-radius: 12px;
   color: rgb(215, 82, 62);
   text-align: center;
   font-weight: 500;
-  margin-top: 0;
 }
 
 .ftext p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: bold;
+  padding: 5px;
 }
