@@ -1,9 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Responsive Page
 
-> HTML & CSS #8th Homework Project (Responsive).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
-
+> HTML & CSS Responsive Project
 ## Live Demo
 
 Preview: https://pirci.github.io/responsive/
